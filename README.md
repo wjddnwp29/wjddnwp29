@@ -1,6 +1,9 @@
 ---
-Expeiences
-* 국립금오공과대학교 컴퓨터공학부 인공지능공학과 학생회 기획국 국장 (2024.02~2024.12)
+## Project
+* LSTM, BI-LSTM 모델 기반 비트코인 가격 예측 (2023.10 ~ 2023.12)
+
+## Expeiences
+* 국립금오공과대학교 컴퓨터공학부 인공지능공학과 학생회 기획국 국장 (2024.02 ~ 2024.12)
 * 국립금오공과대학교 KIT 서로도움 공동체 튜터 (2024.04 ~ 2024.06)
 * 국립금오공과대학교 비교과 학생 모니터링단 취재부 (2024.04 ~ 2024.12)
 * 국립금오공과대학교 컴퓨터공학부 인공지능공학과 AI프로그래밍연습 Teaching Assistant (2024.07 ~ 2024.12)
@@ -11,5 +14,5 @@ Expeiences
 
 
 
-Certifiacte
-+ Microsoft Azure AI Fundamentals(AI-900) (2023.11.17)
+## Certifiacte
+* Microsoft Azure AI Fundamentals(AI-900) (2023.11.17)
