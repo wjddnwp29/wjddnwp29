@@ -13,5 +13,5 @@
 
 
 
-## Certifiacte
+## Certificate
 * Microsoft Azure AI Fundamentals(AI-900) (2023.11.17)
