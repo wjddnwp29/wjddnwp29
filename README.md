@@ -15,3 +15,7 @@
 
 ## Certificate
 * Microsoft Azure AI Fundamentals(AI-900) (2023.11.17)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjddnwp29&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjddnwp29&layout=compact&theme=dracula)
