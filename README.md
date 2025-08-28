@@ -10,11 +10,13 @@
 * 국립금오공과대학교 컴퓨터공학부 인공지능공학과 신입생멘토 (2025.02 ~ 2026.02)
 * 국립금오공과대학교 KIT 서로도움 공동체 튜터 (2025.04 ~ 2025.06)
 * 국립금오공과대학교 또래상담 멘토 (2025.03 ~ 2025.06)
+* 찾아가는 과학 멘토링 (2024.08 ~ 2024.08)
 
 
 
 ## Certificate
 * Microsoft Azure AI Fundamentals(AI-900) (2023.11.17)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjddnwp29&show_icons=true&theme=dracula)
