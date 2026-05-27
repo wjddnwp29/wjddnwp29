@@ -10,7 +10,7 @@ Final-year Computer Science student in South Korea.
 
 #### 🚀 Projects
 - **[wafer-defect-pipeline](https://github.com/wjddnwp29/wafer-defect-pipeline)** — Diffusion models (DDPM / DDIM / Consistency Models) on WM-811K wafer defect dataset.
-- **[GrindProject](https://github.com/wjddnwp29/GrindProject)** — Internship IoT project for a coffee factory. ESP32-based sensor system with Random Forest regression.
+- **[GrindProject](https://github.com/wjddnwp29/GrindProject)** — Internship IoT project for a coffee factory. ESP01-based sensor system with Random Forest regression.
 
 #### 📄 Publication
 - "Study on the Effectiveness Analysis of Natural Language-Based Content Recommendation System in Elementary SW Education" — *공학교육연구 (Journal of Engineering Education Research)*, 2025. KoBERT + MAML-based recommendation for elementary SW education.
