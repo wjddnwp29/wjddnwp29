@@ -9,7 +9,7 @@ Final-year Computer Science student in South Korea.
 - **Gradio** ([gradio-app/gradio](https://github.com/gradio-app/gradio)) — Improved developer experience for `gr.Tabs()` component ([#13383](https://github.com/gradio-app/gradio/pull/13383), shipped in v6.15.0)
 
 #### 🚀 Projects
-- **[wafer-defect-pipeline](https://github.com/wjddnwp29/wafer-defect-pipeline)** — Diffusion models (DDPM / DDIM / Consistency Models) on WM-811K wafer defect dataset. Achieved FID ~47.13.
+- **[wafer-defect-pipeline](https://github.com/wjddnwp29/wafer-defect-pipeline)** — Diffusion models (DDPM / DDIM / Consistency Models) on WM-811K wafer defect dataset.
 - **[GrindProject](https://github.com/wjddnwp29/GrindProject)** — Internship IoT project for a coffee factory. ESP32-based sensor system with Random Forest regression.
 
 #### 📄 Publication
