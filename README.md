@@ -3,7 +3,7 @@
 Final-year Computer Science student in South Korea. 
 
 #### 🔭 Currently
-- Internship: Building a rubber compound quality prediction model (decision-tree based, multi-target regression on mechanical properties)
+- Internship: Building a rubber compound quality prediction model
 
 #### 🌱 Open Source
 - **Gradio** ([gradio-app/gradio](https://github.com/gradio-app/gradio))
