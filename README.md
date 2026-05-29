@@ -6,7 +6,9 @@ Final-year Computer Science student in South Korea.
 - Internship: Building a rubber compound quality prediction model (decision-tree based, multi-target regression on mechanical properties)
 
 #### 🌱 Open Source
-- **Gradio** ([gradio-app/gradio](https://github.com/gradio-app/gradio)) — Improved developer experience for `gr.Tabs()` component ([#13383](https://github.com/gradio-app/gradio/pull/13383), shipped in v6.15.0)
+- **Gradio** ([gradio-app/gradio](https://github.com/gradio-app/gradio))
+  - Improved developer experience for `gr.Tabs()` component ([#13383](https://github.com/gradio-app/gradio/pull/13383), shipped in v6.15.0)
+  - Configurable session heartbeat interval via `GRADIO_HEARTBEAT_INTERVAL` env var ([#13422](https://github.com/gradio-app/gradio/pull/13422), shipped in v6.16.0)
 
 #### 🚀 Projects
 - **[wafer-defect-pipeline](https://github.com/wjddnwp29/wafer-defect-pipeline)** — Diffusion models (DDPM / DDIM / Consistency Models) on WM-811K wafer defect dataset.
