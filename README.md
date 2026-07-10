@@ -10,6 +10,7 @@
 
 #### Certification
 - **정보처리기사** - 한국산업인력공단(26.06.12)
+- **빅데이터분석기사** - 한국데이터산업진흥원(26.07.10)
 
 #### Publication
 - "Study on the Effectiveness Analysis of Natural Language-Based Content Recommendation System in Elementary SW Education" — *공학교육연구 (Journal of Engineering Education Research)*, 2025. KoBERT + MAML-based recommendation for elementary SW education.
