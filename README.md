@@ -9,7 +9,10 @@
 - **[GrindProject](https://github.com/wjddnwp29/GrindProject)** — Internship IoT project for a coffee factory. ESP01-based sensor system with Random Forest regression.
 
 #### Certification
+- **Azure AI Fundamentals** - Microsoft(23.11.17)
+- **GOOGLE ANALYTICS** - GOOGLE(26.04.28)
 - **정보처리기사** - 한국산업인력공단(26.06.12)
+- **6시그마프로젝트실무자 GB/BB** - 커넥트직무센터(26.07.06)
 - **빅데이터분석기사** - 한국데이터산업진흥원(26.07.10)
 
 #### Publication
