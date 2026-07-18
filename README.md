@@ -8,7 +8,7 @@
 - **[entry-reco-bot](https://github.com/wjddnwp29/entry-reco-bot)** — KoBERT + MAML 기반 자연어 콘텐츠 추천 시스템.
 - **[GrindProject](https://github.com/wjddnwp29/GrindProject)** — Internship IoT project for a coffee factory. ESP01-based sensor system with Random Forest regression.
 
-#### Certification
+#### Certifications & Courses
 - **Azure AI Fundamentals** - Microsoft(23.11.17)
 - **GOOGLE ANALYTICS** - GOOGLE(26.04.28)
 - **정보처리기사** - 한국산업인력공단(26.06.12)
