@@ -6,7 +6,7 @@
 #### Projects
 - **[wafer-defect-pipeline](https://github.com/wjddnwp29/wafer-defect-pipeline)** — WM-811K 웨이퍼 결함 데이터셋 기반 확산 모델(DDPM / DDIM / Consistency Models) 증강 성능 비교
 - **[entry-reco-bot](https://github.com/wjddnwp29/entry-reco-bot)** — KoBERT + MAML 기반 자연어 콘텐츠 추천 시스템
-- **[GrindProject](https://github.com/wjddnwp29/GrindProject)** — 현장실습 IoT 프로젝트
+- **[GrindProject](https://github.com/wjddnwp29/GrindProject)** — 현장실습 IoT 프로젝트(ML기반 자동 그라인더)
 
 #### Certifications & Courses
 - **Azure AI Fundamentals** - Microsoft(23.11.17)
