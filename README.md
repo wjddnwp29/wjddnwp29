@@ -15,6 +15,7 @@
 - **6시그마프로젝트실무자 GB/BB** - 커넥트직무센터(26.07.06)
 - **빅데이터분석기사** - 한국데이터산업진흥원(26.07.10)
 - **Google AI Fundamentals** - GOOGLE(26.07.18)
+- **AdSP** - 한국데이터산업진흥원(26.08.28)
 
 #### Publication
 - "Study on the Effectiveness Analysis of Natural Language-Based Content Recommendation System in Elementary SW Education" — *공학교육연구 (Journal of Engineering Education Research)*, 2025. KoBERT + MAML-based recommendation for elementary SW education.
